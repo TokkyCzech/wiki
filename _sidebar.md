@@ -2,5 +2,6 @@
 
   * [Overview](/)
 
-* Beta Test Commands
-  * [Movements/Teleportation](tutorials/beta-test-movement.md)
+* Beta-test commands
+  * [Character Movement](tutorials/beta-test-movement.md)
+  * [Item Creation](tutorials/beta-test-items.md)
