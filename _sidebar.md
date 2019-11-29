@@ -2,5 +2,5 @@
 
   * [Overview](/)
 
-* Tutorials
-  * [Your first plugin](tutorials/plugin.md)
+* Beta Test Commands
+  * [Movements/Teleportation](tutorials/beta-test-movement.md)
