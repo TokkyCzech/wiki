@@ -4,4 +4,4 @@
 Normal item :
 `$item [vnum] [quantity] [rarity] [upgrade]`
 
-`$sp [upgrade]`
+`$sp [vnum] [upgrade]`
