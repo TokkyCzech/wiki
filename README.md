@@ -25,3 +25,4 @@ Pull requests are accepted
 ## Contributors
 
 - BlowaXD
+- Kravos
