@@ -3,6 +3,7 @@
 ### How item creation command looks
 
 
+
 How item creation command looks • `$item 5060 1`
 
 How equipment creation command looks  • `$item 4903 1 8 10`
