@@ -10,6 +10,9 @@ Teleport to a player:
 Teleport a player to you:
 `$summon [PlayerName]`
 
+Teleport to your Miniland:
+`$mfield`
+
 Increase your movementspeed
 `$speed [Value(1-55)]`
 
