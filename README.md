@@ -26,3 +26,4 @@ Pull requests are accepted
 
 - BlowaXD
 - Kravos
+- Tokky
